@@ -24,7 +24,7 @@
         <form action="Struk.php" method="post">
             <div class="card text-dark bg-light mb-3" style="max-width: 40rem;">
                 <div class="card-header text-dark">Data Penggajihan</div>
-                <table>
+                <table style="margin: 10px;">
                     <tr>
                         <td colspan="2">
                             <label for="No">No: </label>
